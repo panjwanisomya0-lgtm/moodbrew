@@ -1,0 +1,6 @@
+{
+  "name": "MOODBREW — Mood-Based Coffee Experience",
+  "description": "There's a cup for the feeling. An immersive lifestyle coffee brand connecting your daily emotions with artisanal coffee rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
